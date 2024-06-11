@@ -1,6 +1,5 @@
 ## Hi there 👋, I'm David Cotrina
 
-<!--
 **davidcobe04/davidcobe04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -10,7 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you want. I'll be here waiting for you.
 - 📫 How to reach me adavidcobe12@gmail.com or adavidcotrina@gmail.com
 - 📄 Know about my experiences. I worked for 3 months in a company that is dedicated to providing assistance in computer systems.
--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
