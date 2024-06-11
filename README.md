@@ -1,9 +1,5 @@
 ## Hi there 👋, I'm David Cotrina
 
-**davidcobe04/davidcobe04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying Desarrollo de Aplicaciones Multiplataforma.
 - 🌱 I’m currently learning about Java, HTML, CSS and SQL.
 - 💬 Ask me about anything you want. I'll be here waiting for you.
