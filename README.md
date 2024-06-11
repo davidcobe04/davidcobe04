@@ -1,9 +1,14 @@
-## Hi there 👋, I'm David Cotrina
+<h1 align="center">Hi there 👋, I'm David Cotrina</h1>
+<h3 align="center">A passionate software developer student from Spain</h3>
 
 - 🔭 I’m currently studying Desarrollo de Aplicaciones Multiplataforma.
+
 - 🌱 I’m currently learning about Java, HTML, CSS and SQL.
+
 - 💬 Ask me about anything you want. I'll be here waiting for you.
+
 - 📫 How to reach me adavidcobe12@gmail.com or adavidcotrina@gmail.com
+
 - 📄 Know about my experiences. I worked for 3 months in a company that is dedicated to providing assistance in computer systems.
 
 <h3 align="left">Connect with me:</h3>
