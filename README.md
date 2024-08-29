@@ -18,7 +18,7 @@
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
-<a href="/Certifications/Certificación_AI_Santander_OpenAcademy.pdf" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://yt3.googleusercontent.com/WnDeYJGGWsgTfPR5JyflFd4Bk9I35ycYTCLo83OOFdem4105LbP8IvLhMubRP_Ue5Ft5PlqfVw=s900-c-k-c0x00ffffff-no-rj)" alt="davidcotrina_04" height="30" width="40" /></a>
+<a href="/Certifications/Certificación_AI_Santander_OpenAcademy.pdf" target="blank"><img align="center" src="https://yt3.googleusercontent.com/WnDeYJGGWsgTfPR5JyflFd4Bk9I35ycYTCLo83OOFdem4105LbP8IvLhMubRP_Ue5Ft5PlqfVw=s900-c-k-c0x00ffffff-no-rj" alt="davidcotrina_04" height="60" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
