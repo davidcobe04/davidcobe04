@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Desarrollo de Aplicaciones Multiplataforma.
 
-- 🌱 I’m currently learning about Java, HTML, CSS and SQL.
+- 🌱 I’m currently learning about C#, JavaScript, Kotlin and PHP.
 
 - 💬 Ask me about anything you want. I'll be here waiting for you.
 
