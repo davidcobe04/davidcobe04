@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Short DAM Games 2024</string>
+    <string name="app_title">Short DAM Games</string>
+    <string name="bt_comenzar">Comenzar</string>
+    <string name="bt_jugar_de_nuevo">Jugar de nuevo</string>
+    <string name="bt_regresar_a_la_lista">Regresar a la lista</string>
+</resources>

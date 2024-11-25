@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gamename_values">
+        <item>Sudoku</item>
+    </string-array>
+
+    <string-array name="gameauthor_values">
+        <item>David Cotrina Becerra</item>
+    </string-array>
+
+    <string-array name="gamepackage_values">
+        <item>cotrinad</item>
+    </string-array>
+
+    <string-array name="gameplayers_values">
+        <item>1</item>
+    </string-array>
+</resources>
