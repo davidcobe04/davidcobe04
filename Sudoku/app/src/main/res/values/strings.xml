@@ -1,7 +1,12 @@
 <resources>
-    <string name="app_name">Short DAM Games 2024</string>
-    <string name="app_title">Short DAM Games</string>
-    <string name="bt_comenzar">Comenzar</string>
-    <string name="bt_jugar_de_nuevo">Jugar de nuevo</string>
-    <string name="bt_regresar_a_la_lista">Regresar a la lista</string>
+    <string name="app_name">Sudoku</string>
+    <string name="complete">Sudoku completado.</string>
+    <string name="perfect">Lo has hecho perfecto!!!</string>
+    <string name="score">Puntuación: %1$s</string>
+    <string name="failures">Fallos: %1$s</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="change_difficulty">Cambiar dificultad</string>
+    <string name="easy">Fácil</string>
+    <string name="medium">Medio</string>
+    <string name="difficult">Difícil</string>
 </resources>

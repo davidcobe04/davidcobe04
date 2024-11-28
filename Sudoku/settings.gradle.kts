@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Short DAM Games 2024"
+rootProject.name = "Sudoku"
 include(":app")
  

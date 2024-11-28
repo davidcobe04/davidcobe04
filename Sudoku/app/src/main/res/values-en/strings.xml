@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="complete">Completed Sudoku.</string>
+    <string name="perfect">You did it perfect!!!</string>
+    <string name="score">Score: %1$s</string>
+    <string name="failures">Failures: %1$s</string>
+    <string name="play_again">Play again</string>
+    <string name="change_difficulty">Change difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="difficult">Difficult</string>
+</resources>
